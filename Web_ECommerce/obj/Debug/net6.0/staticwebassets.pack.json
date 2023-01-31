@@ -1,0 +1,237 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\css\\ObjetoItemDashBoard.css",
+      "PackagePath": "staticwebassets\\css\\ObjetoItemDashBoard.css"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\imgProdutos\\1.jpg",
+      "PackagePath": "staticwebassets\\imgProdutos\\1.jpg"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\imgProdutos\\1.png",
+      "PackagePath": "staticwebassets\\imgProdutos\\1.png"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\imgProdutos\\10.PNG",
+      "PackagePath": "staticwebassets\\imgProdutos\\10.PNG"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\imgProdutos\\2.JPG",
+      "PackagePath": "staticwebassets\\imgProdutos\\2.JPG"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\imgProdutos\\6.jpg",
+      "PackagePath": "staticwebassets\\imgProdutos\\6.jpg"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\imgProdutos\\8.png",
+      "PackagePath": "staticwebassets\\imgProdutos\\8.png"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\imgProdutos\\9.png",
+      "PackagePath": "staticwebassets\\imgProdutos\\9.png"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\img\\carrinho.png",
+      "PackagePath": "staticwebassets\\img\\carrinho.png"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\img\\fechar.png",
+      "PackagePath": "staticwebassets\\img\\fechar.png"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\img\\loja-virtual-1.png",
+      "PackagePath": "staticwebassets\\img\\loja-virtual-1.png"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\img\\maximizar.png",
+      "PackagePath": "staticwebassets\\img\\maximizar.png"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\img\\minimizar.png",
+      "PackagePath": "staticwebassets\\img\\minimizar.png"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\js\\JsonView.js",
+      "PackagePath": "staticwebassets\\js\\JsonView.js"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\js\\ObjetoItemDashBoard.js",
+      "PackagePath": "staticwebassets\\js\\ObjetoItemDashBoard.js"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\js\\dashBoardPortal.js",
+      "PackagePath": "staticwebassets\\js\\dashBoardPortal.js"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\js\\jsProdutosVenda.js",
+      "PackagePath": "staticwebassets\\js\\jsProdutosVenda.js"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\js\\logSistema.js",
+      "PackagePath": "staticwebassets\\js\\logSistema.js"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Atualizacao_ECOMERCE_NET\\EcommerceDDD\\Web_ECommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Web_ECommerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Web_ECommerce.props",
+      "PackagePath": "build\\Web_ECommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Web_ECommerce.props",
+      "PackagePath": "buildMultiTargeting\\Web_ECommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Web_ECommerce.props",
+      "PackagePath": "buildTransitive\\Web_ECommerce.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

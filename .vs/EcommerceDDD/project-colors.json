@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0af8e897-e98d-45f6-92bc-19d379f39707": {
+      "ProjectGuid": "0af8e897-e98d-45f6-92bc-19d379f39707",
+      "DisplayName": "Web_ECommerce",
+      "ColorIndex": 0
+    },
+    "1748a494-2c35-4a46-9f3c-65cf2d821191": {
+      "ProjectGuid": "1748a494-2c35-4a46-9f3c-65cf2d821191",
+      "DisplayName": "WebApiSite",
+      "ColorIndex": 1
+    },
+    "05d295e5-1f86-4d8f-96c2-f8c78bea1a7d": {
+      "ProjectGuid": "05d295e5-1f86-4d8f-96c2-f8c78bea1a7d",
+      "DisplayName": "ApplicationApp",
+      "ColorIndex": 2
+    },
+    "2c930362-19bd-4b4c-a6c7-6eaed4c02576": {
+      "ProjectGuid": "2c930362-19bd-4b4c-a6c7-6eaed4c02576",
+      "DisplayName": "Domain",
+      "ColorIndex": 3
+    },
+    "bbbe57bf-196b-4b61-ae15-48073b8dd1dc": {
+      "ProjectGuid": "bbbe57bf-196b-4b61-ae15-48073b8dd1dc",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 4
+    },
+    "6d196355-f49a-4217-b505-4ea51b74c18b": {
+      "ProjectGuid": "6d196355-f49a-4217-b505-4ea51b74c18b",
+      "DisplayName": "Entities",
+      "ColorIndex": 5
+    },
+    "2a85466d-8816-4dca-b9ef-ac9713efedfe": {
+      "ProjectGuid": "2a85466d-8816-4dca-b9ef-ac9713efedfe",
+      "DisplayName": "ConsumoAPI",
+      "ColorIndex": 6
+    },
+    "52df3d0b-689a-4c02-b719-c47a7df628c9": {
+      "ProjectGuid": "52df3d0b-689a-4c02-b719-c47a7df628c9",
+      "DisplayName": "UnitTestEcommerceDDD",
+      "ColorIndex": 7
+    },
+    "bb1ef039-329c-437b-a3fb-ffc4c9e4aa8b": {
+      "ProjectGuid": "bb1ef039-329c-437b-a3fb-ffc4c9e4aa8b",
+      "DisplayName": "HelpConfig",
+      "ColorIndex": 8
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 9
+}
